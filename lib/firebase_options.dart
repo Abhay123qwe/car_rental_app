@@ -53,11 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD0i0zl7WuUCkZ6MNM-wYmGLr7l0GKx6Lo',
+    apiKey: '',
     appId: '1:324385824530:android:b7949094f9d231d0799dcb',
     messagingSenderId: '324385824530',
     projectId: 'car-rental-app-e043b',
     storageBucket: 'car-rental-app-e043b.appspot.com',
   );
-
 }
